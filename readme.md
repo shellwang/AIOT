@@ -8,7 +8,7 @@
 **其他相关资源**
 * [FeatureLabs的FeatureTools项目列表](https://github.com/Featuretools/featuretools)<br />
 * [基于Spark MLlib的CTR prediction模型(LR, Random forest, GBDT, NN, PNN)](https://github.com/wzhe06/CTRmodel) <br />
-* [推荐系统相关论文和资源列表](https://github.com/wangxiaosheng1212/AIOT/papers) <br />
+* [AIoT系统相关论文和资源列表](https://github.com/wangxiaosheng1212/AIOT/papers) <br />
 
 
 
